@@ -1,0 +1,15 @@
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/bin/Debug/net8.0/Calculator
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/runner/work/github-copilot-coding-agent-demo/github-copilot-coding-agent-demo/Calculator/obj/Debug/net8.0/ref/Calculator.dll
